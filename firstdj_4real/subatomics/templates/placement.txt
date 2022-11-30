@@ -1,3 +1,0 @@
-this is straight up a placeholder since the hierarchy
-of folders with electrons -> templates -> electrons -> about
-refuses to work any other way
